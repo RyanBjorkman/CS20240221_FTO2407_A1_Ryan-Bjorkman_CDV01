@@ -25,56 +25,60 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Basic HTML and CSS
+    - CSS, JavaScript and Python
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Web development, I am eager to creating dynamic, user-friendly websites and applications.
+    - Problem solving, I love problem solving and puzzels and am very interested in being able to debug complex code.
+    - Continuos Learning and Growth as well as have maintaining a healthy work-life balance.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Junior software development as well as android app development
+    - Debugging and problem solving complex code has interested me greatly. I have done some research on scrum masters who aid Dev teams to resolve or develop their code.
+    
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - I love puzzels and I believe being able to not only write my own code but be able to both read and debug existing code will be very personally satisfying.
+    - Quite simply just not knowing what I do not yet know.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Graduate from the CodeSpace Boot camp by the end of the year 2024 followed by securing employment as a software developer in the new year while bettering my skills.
+    - Being able to work remotely from home is a huge motivator for this choice in career as well as the future job security that the industry as a whole offers.
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Becoming a senior software developer and potentially a scrum master for larger tech companys
+    - I believe being an experinced software developer will allow me to accept challenges that will both keep me motivated and satisfied within my work.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Graduate with at least a merit from CodeSpace
+    - Lots and lots of youtube videos (school of you tube)
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Securing a job as a software developer that offers growth within the company to a senior software developer under the mentorship of a seasoned programmer.
+    - CodeSpace Java Engineering Course
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Time will be a huge factor and challenge as I have both my own business (while mostly passive) does require a few hours each week and I have a new born baby so hard scheduling is a challenge on it's own.
+    - Following a routine as best as possible and setting daily/weekly goals and dedicating enough time to accomplish each.
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - I know a few other developers already working in the industry with multiple years of experience that may help develop my coding skills as well as introduce me to the right people or at least point me in the right direction.
+   
 
 ### Submission
 
